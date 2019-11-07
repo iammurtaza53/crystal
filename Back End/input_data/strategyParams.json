@@ -1,0 +1,42 @@
+{
+    "PRIMERO": {
+        "CONS": {
+            "LONG": 80,
+            "SHORT": 20
+        },
+        "STPL": {
+            "LONG": 80,
+            "SHORT": 20
+        },
+        "TECH": {
+            "LONG": 80,
+            "SHORT": 20
+        },
+        "INDU": {
+            "LONG": 80,
+            "SHORT": 20
+        }
+    },
+    "JUMP": {
+        "CONS": {
+            "LONG": 20,
+            "SHORT": 20
+        },
+        "STPL": {
+            "LONG": 20,
+            "SHORT": 80
+        },
+        "TECH": {
+            "LONG": 20,
+            "SHORT": 40
+        },
+        "INDU": {
+            "LONG": 20,
+            "SHORT": 60
+        }
+    },
+    "primero_long": 50,
+    "primero_short": 50,
+    "jump_long": 50,
+    "jump_short": 50
+}

@@ -1,0 +1,10 @@
+h1{
+   color: #00bcd4;
+   font-size: 3rem;
+   font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.v-toolbar__content {
+   height: 45px !important;
+   background-color: #00bcd4;
+}

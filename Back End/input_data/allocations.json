@@ -1,0 +1,41 @@
+{
+    "portfolio": 1000000,
+    "within": {
+        "primero": {
+            "CONS": 12.5,
+            "INDU": 12.5,
+            "STPL": 25,
+            "TECH": 25
+        },
+        "jump": {
+            "CONS": 12.5,
+            "INDU": 12.5,
+            "STPL": 25,
+            "TECH": 25
+        }
+    },
+    "target": {
+        "primero": {
+            "lmv": 100,
+            "CONS": -80,
+            "INDU": -80,
+            "STPL": -90,
+            "TECH": -90
+        },
+        "jump": {
+            "lmv": 100,
+            "CONS": -80,
+            "INDU": -80,
+            "STPL": -90,
+            "TECH": -90
+        }
+    },
+    "strategy_allocations_pct": {
+        "primero": {
+            "pct": 50
+        },
+        "jump": {
+            "pct": 28
+        }
+    }
+}
