@@ -126,7 +126,7 @@ libarchive-c==2.8
 llvmlite==0.26.0
 locket==0.2.0
 lxml==4.2.5
-Mako==1.0.8
+Mako==1.2.2
 MarkupSafe==1.0
 marshmallow==2.13.5
 marshmallow-jsonapi==0.15.0
